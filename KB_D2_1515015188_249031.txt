@@ -1,0 +1,22 @@
+1. Mengubah bahasa prolog menjadi bahasa Natural
+a. Dian adalah nama orang.
+b. Atoz adalah merek mobil.
+c. Dian menyukai mobil atoz.
+d. Mobil atoz dijual.
+e. X dapat membeli y jika.
+   X adalah variabel pengganti orang.
+   Y adalah variabel pengganti mobil.
+   X menyukai Y.
+   Y di jual.
+Apa yang _ suka?
+ 
+2. Mengubah bahasa Natural menjadi bahasa Prolog
+a) Hobi(Ricky, catur).
+b) Orang (embang , pemalas).
+c) Seorang( Yusida, vegetarian).
+d) Pandai ( kusdiar, gitar).
+e) Milik (mobil, Sadek), warna (mobil, merah), merek(mobil, BMW).
+f) Pemain (Awan, piano), berasal( Awan, pontianak), suku(Awan , jawa).
+g) Dikatakan (orang , baik):-sifat (orang, penyayang), sifat( orang, dermawan).
+h) Dikatakan(orang, pintar):- dapat(matematika, tinggi); dapat(ipa, tinggi); dapat (ips, tinggi).
+i) Setiap(Orang, mati).

@@ -21,4 +21,4 @@ clauses
   suka(judy,soto,softdrink).  % judy suka soto dan softdrink
   
 goal
-  membeli(Nama,Makanan,tea).  %goal ini adalah hasil dari clauses 
+  membeli(Nama,Makanan,tea_).  %goal ini adalah hasil dari clauses 
